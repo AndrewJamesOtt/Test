@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
         int fucksGiven = 0;
         boolean doICare = false;
+
+        System.out.println("Exactly how may fucks do I give? " + fucksGiven);
+        System.out.println("And do I care? " + doICare);
+
     }
 }
